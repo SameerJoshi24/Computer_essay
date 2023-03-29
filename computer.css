@@ -1,6 +1,17 @@
+.brand {
+    font-size:25px;
+}
 .summary {
     cursor: pointer;
 }
 #heading {
     font-weight: bold;
+}
+.footer{
+    background-color: #222;
+    padding: 5px;
+    color: white;
+}
+.navbrand-footer{
+    color: white;
 }
